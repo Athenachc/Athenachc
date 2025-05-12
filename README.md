@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there~ 👋
 
+- 🌱I'm interested in robot manupulation and robotics design
+- 📫 How to reach me: athenacheungac[AT]gmail[DOT]com
 <!--
 **Athenachc/Athenachc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
